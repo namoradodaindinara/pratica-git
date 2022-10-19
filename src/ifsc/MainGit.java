@@ -1,4 +1,4 @@
-package ifsc;
+package praticas01;
 
 public class MainGit {
 
